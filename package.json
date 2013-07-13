@@ -1,0 +1,36 @@
+{
+    "name": "mod-less",
+    "description": "Compile LESS files to CSS",
+    "version": "0.1.0",
+    "homepage": "https://github.com/modjs/less",
+    "author": {
+        "name": "yuanyan",
+        "url": "https://github.com/yuanyan"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/modjs/less.git"
+    },
+    "bugs": {
+        "url": "https://github.com/modjs/less/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/modjs/less/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "bin": "",
+    "engines": {
+        "node": ">= 0.6.0"
+    },
+    "scripts": {
+        "test": ""
+    },
+    "dependencies": {
+        "less": "~1.4.1"
+    },
+    "devDependencies": {
+    },
+    "keywords": []
+}

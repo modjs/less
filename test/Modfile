@@ -1,0 +1,14 @@
+// A sample Modfile
+// More info at https://github.com/modulejs/modjs/
+
+module.exports = {
+    plugins: {
+        less: "../index.js"
+    },
+    tasks: {
+        less: {
+            src: "test.less",
+            dest: "test.css"
+        }
+    }
+};

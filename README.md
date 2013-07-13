@@ -1,4 +1,3 @@
-less
-====
-
-compile less to css
+mod-less
+===
+Compile LESS files to CSS
